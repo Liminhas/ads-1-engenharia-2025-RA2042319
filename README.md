@@ -1,18 +1,20 @@
-# 📚 Diário de Engenharia de Software - {Nome do Aluno}
+# 📚 Diário de Engenharia de Software - Vinicius De Souza Lima Ferrerira
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
-(Escreva aqui um breve resumo sobre a importância das metodologias no desenvolvimento de software.)
+As métodologias são cruciais pois define tecnicas de organização e gestão para a criação de um projeto, ou seja, conseguimos atribuir devidamente as taferas para cada individuo, definir precisamente as atividades, detalhar as fazes assim intercalando tudo para um projeto bem definido e sem falhas.
 
 ## 📖 Metodologias Tradicionais  
-### 🛠️ Cascata  
-(Explique brevemente o modelo Cascata e suas características.)
+### 🛠️ Cascata 
+Criado nos anos 70 (tambem chamado de waterfall) este modelo busca a otmização da gestão do projeto sendo rigido nas etapas sequencias do projeto com um controle fixo das funções. Caracteristicas: levantamento de requisitos, planejamento antecipado, modelagem das etapas, desenvolvimento geral do projeto e menos mudanças no decorrer do projeto. 
 
 ### 🌐 Espiral  
-(Explique o modelo Espiral e como ele funciona.)
+Ideal para projetos complexos pois organiza o processo de desenvolvimento em um ciclo contínuo de fases, onde cada ciclo é composto por agumas atividades: planejamento, análise de riscos, engenharia e avaliação. Ou seja, cada iteração envolve a Análise de Riscos, o Planejamento, a Avaliação e Feedback o que tambem são suas caracteristicas principais.
 
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
 (Explique os valores e princípios do Manifesto Ágil.)
+Criado com o objetivo da agilidade da entrega do projeto e na interação da equipe no decorrer do projeto. Com Abordagens que buscam valorizar as pessoas e a interação entre elas, priorizar um softwer totalmente funcional, Flexibilidade em modificações no decorrer do projeto e Auto-organização dos processos. Alguns dos valores levados em consideração neste manifesto é: Promover uma comunicação aberta entre a equipe, 
+
 
 ## 🏆 Scrum  
 ### 📅 Sprints  
