@@ -18,20 +18,36 @@ Criado com o objetivo da agilidade da entrega do projeto e na interação da equ
 
 ## 🏆 Scrum  
 ### 📅 Sprints  
-(O que são sprints e como funcionam no Scrum?)
+Com duração entre 1 a 4 semanas as sprints são pequenos ciclos de desenvolvimento do Scrum, ou seja, A ideia é ir desenvolvendo o softeare aos poucos, sempre ajustando conforme necessário para que o projeto siga de maneira mais fluida. Pontos principais: Melhoria contínua, A equipe define quais tarefas serão desenvolvidas e o acompanhamento das semanas para modificações ou melhoras.
 
 ### 💬 Cerimônias  
-(Descreva as principais cerimônias do Scrum.)
+Servem para organizar o trabalho e garantir que tudo siga no ritmo certo, as cerimonias principais que encontrei são: Daily Scrum, Sprint Review, Sprint Retrospective e Sprint Planning.
+
+**Sprint Planning**: A equipe se reúne para decidir quais tarefas serão feitas durante o ciclo. Eles escolhem do Product Backlog o que vai ser desenvolvido e o que é prioridade.
+
+**Daily Scrum**: Essa reunião acontece todo dia, sendo geralmente bem rápida. A equipe compartilha o que fez no dia anterior, o que vai fazer no dia e se tem algum problema que precise ser resolvido.
+
+**Sprint Review**: O time mostra o que foi feito e recebe feedback do Product Owner e de outras partes interessadas. É uma chance de ver o que foi entregue e se está no caminho certo.
+
+**Sprint Retrospective**: A equipe se reúne para discutir o que funcionou bem e o que precisa melhorar. O objetivo é sempre melhorar o processo e encontrar maneiras de trabalhar de forma mais eficiente na próxima sprint.
 
 ## 🎯 Kanban  
-(Explique o funcionamento do Kanban e sua aplicação.)
+É um método visual para gerenciar o trabalho e ajudar as equipes a organizarem suas tarefas (Um exemplo é a ferramenta ClickUp que possui colunas para representar uma etapa do processo).
+As aplicações podem ser resumidas em:
+
+**Gerenciamento de Tarefas**: Kanban é muito usado para organizar tarefas em times de desenvolvimento, mas também pode ser aplicado em outros setores, como marketing, vendas, suporte, etc.
+
+**Acompanhamento do progresso**: Ele ajuda a equipe a visualizar claramente o progresso das tarefas e identificar gargalos ou áreas que precisam de atenção.
+
+**Flexibilidade**: Como não é baseado em ciclos fixos, é mais flexível e pode ser adaptado rapidamente para mudanças.
 
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+Uma metodologia ágil que foca em melhorar a qualidade do software e a capacidade de adaptação às mudanças. Ele se baseia em algumas práticas e princípios que ajudam a equipe a produzir software de forma eficiente, com alta qualidade e em colaboração constante.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
+O GitHub e o GitLab são plataformas que ajudam no gerenciamento de projetos e controle de versão de código (também podem ser utilizados para mostrar os projetos feitos por voce á outras pessoas ou empresas.. quase como um linkedin).
+Esplicando mais detalhadamente, estas ferramentas permitem que os desenvolvedores tenham um local para guardar o projeto e trabalhem no mesmo código sem sobrescrever alterações, registrando o histórico de mudanças. E tanto o GitHub quanto o GitLab possuem ferramentas de gerenciamento de tarefas, como Issues (para registrar problemas, melhoras ou novas funcionalidades) e Boards no estilo Kanban para organizar o fluxo de trabalho.
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+O Jira e o Trello são ferramentas usadas para organizar e acompanhar tarefas (principalmente com um apoio visual), ajudando equipes a gerenciar projetos de forma mais eficiente. No geral, essas ferramentas ajudam a organizar o trabalho, evitar atrasos e melhorar a produtividade da equipe.
