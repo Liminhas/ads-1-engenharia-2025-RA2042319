@@ -1,4 +1,4 @@
-# 📚 Diário de Engenharia de Software - Vinicius De Souza Lima Ferrerira
+![image](https://github.com/user-attachments/assets/69317d0b-e615-4314-b4be-67ab89395669)# 📚 Diário de Engenharia de Software - Vinicius De Souza Lima Ferrerira
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
 As métodologias são cruciais pois define tecnicas de organização e gestão para a criação de um projeto, ou seja, conseguimos atribuir devidamente as taferas para cada individuo, definir precisamente as atividades, detalhar as fazes assim intercalando tudo para um projeto bem definido e sem falhas.
@@ -51,3 +51,10 @@ Esplicando mais detalhadamente, estas ferramentas permitem que os desenvolvedore
 
 ### 🎮 Jira / Trello  
 O Jira e o Trello são ferramentas usadas para organizar e acompanhar tarefas (principalmente com um apoio visual), ajudando equipes a gerenciar projetos de forma mais eficiente. No geral, essas ferramentas ajudam a organizar o trabalho, evitar atrasos e melhorar a produtividade da equipe.
+
+
+Meu método de organização dentro do TRELLO
+![Captura de tela 2025-03-18 200055](https://github.com/user-attachments/assets/d3eb738d-c072-4214-9da6-f33c4590bd78)
+
+
+
