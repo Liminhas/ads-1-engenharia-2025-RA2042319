@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/69317d0b-e615-4314-b4be-67ab89395669)# 📚 Diário de Engenharia de Software - Vinicius De Souza Lima Ferrerira
+📚 Diário de Engenharia de Software - Vinicius De Souza Lima Ferrerira
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
 As métodologias são cruciais pois define tecnicas de organização e gestão para a criação de um projeto, ou seja, conseguimos atribuir devidamente as taferas para cada individuo, definir precisamente as atividades, detalhar as fazes assim intercalando tudo para um projeto bem definido e sem falhas.
